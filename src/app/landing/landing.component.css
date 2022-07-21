@@ -194,3 +194,9 @@ ul li a:hover{
     float:right;
 }
 
+.footer-container{
+    width:100%;
+    background-color: #ffffff;
+    background-size: cover;
+    height: 109vh;
+}

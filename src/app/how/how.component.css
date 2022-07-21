@@ -1,0 +1,102 @@
+
+
+.main{
+    width:100%;
+    background-color: #ffffff;
+    background-size: cover;
+    height: 109vh;
+}
+
+.navbar{
+    width: 1800px;
+    height:150px;
+    margin:auto;
+}
+
+.icon{
+    width: 250px;
+    float:left;
+    height:100px;
+}
+
+.logo{
+    color: #002AA5;
+    font-size: 40px;
+    font-family: 'Lucida Sans Unicode';
+    padding-left: 10px;
+    float: left;
+    padding-top: 10px;
+}
+
+.menu{
+    width:1500px;
+    float:left;
+    height:85px;
+}
+
+ul{
+    float:left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 65px;
+    margin-top: 80px;
+    font-size: 35px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #0015b3;
+    font-family: 'Lucida Sans Unicode';
+    font-weight: bold;
+    transition: 0.3s ease-in-out;
+
+}
+
+ul li a:hover{
+    color: #000000;
+}
+
+.content{
+    width: 100%;
+    height:auto;
+    margin: auto;
+    color:rgb(0, 0, 0);
+    position:relative;
+    background-color: rgb(255, 255, 255);
+    background-size: contain;
+}
+
+.content img{
+    width: 300px;
+    float:left;
+    padding-left: 50px;
+    padding-top: 100px;
+  
+
+}
+.content .par{
+    padding-left: 400px;
+    padding-bottom:50px;
+    font-family: 'Lucida Sans Unicode';
+    letter-spacing: 1.3px;
+    line-height: 30px;
+}
+
+.content h1{
+    font-family: 'Lucida Sans Unicode';
+    font-size: 35px;
+    padding-left: 350px;
+    padding-top: 80px;
+    margin-top:150px;
+    letter-spacing:3px;
+    width: 500px;
+    
+}
+
+
+
