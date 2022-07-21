@@ -67,7 +67,7 @@ ul li a:hover{
     margin: auto;
     color:rgb(0, 0, 0);
     position:relative;
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
     background-size: contain;
 }
 
@@ -102,7 +102,7 @@ ul li a:hover{
 
 
 .form{
-    width:250px;
+    width: 150px;
     height:350px;
     position: absolute;
     top:45px;
@@ -110,7 +110,7 @@ ul li a:hover{
 }
 
 .form h2{
-    width: 165px;
+    width: 150px;
     font-family: 'Lucida Sans Unicode';
     text-align: center;
     color:rgb(0, 0, 0);
@@ -121,34 +121,7 @@ ul li a:hover{
     padding:2px;
 }
 
-.form input{
-    width:165px;
-    height:20px;
-    background: transparent;
-    border-radius: 10px;
-    border-top:none;
-    border-right: none;
-    border-left:none;
-    color:aliceblue;
-    font-size: 15px;
-    letter-spacing: 1px;
-    font-family: 'Lucida Sans Unicode';
-}
 
-.btn{
-    width:165px;
-    height:25px;
-    border:none;
-    background-color: transparent;
-    margin-top:10px;
-    font-size:15px;
-
-}
-
-.btn a{
-    text-decoration: none;
-    color:#000000;
-}
 
 .content2{
     width: 100%;
@@ -220,3 +193,4 @@ ul li a:hover{
     line-height: 30px;
     float:right;
 }
+
